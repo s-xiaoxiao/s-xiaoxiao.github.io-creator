@@ -1,5 +1,5 @@
-baseURL = "https://s-xiaoxiao.github.io/"
-languageCode = "zh-Hans"
+baseURL = "https://s-xiaoxiao.github.io"
+languageCode = "zh-CN"
 title= "笑笑"
 theme = "maupassant"
 
@@ -30,3 +30,6 @@ theme = "maupassant"
     name = "关于"
     url = "/about/"
     weight = 4    
+
+
+disablePathToLower = true    
