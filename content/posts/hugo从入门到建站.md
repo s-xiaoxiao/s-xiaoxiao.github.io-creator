@@ -1,8 +1,4 @@
----
-title: "hugo从入门到建站blog"
-date: 2019-08-18T16:58:36+08:00
-draft: false
----
+1
 
 # hugo 快速创建 blog 教程
 
